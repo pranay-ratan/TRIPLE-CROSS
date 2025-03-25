@@ -90,25 +90,6 @@ A visual flowchart representing the turn-by-turn progression of the game.
 
 ---
 
-## 📍 Additional Resource
-
-⏱️ [Typical Play Session Length.docx](./Typical%20Play%20Session%20Length.docx)
-
----
-
-## ✨ Contributors
-
-- **Pranay Ratan** – Game Designer, Developer, Tester, Documenter  
-- [LinkedIn](https://www.linkedin.com/in/pranay-ratan/) | [GitHub](https://github.com/pranay-ratan) | [Website](https://pranayratan.info)
-
----
-
-## 📬 Contact
-
-📧 [PRA40@sfu.ca](mailto:PRA40@sfu.ca)
-
----
-
 ## 🧠 License
 
 This project is for educational use only under SFU's IAT210 guidelines.  
