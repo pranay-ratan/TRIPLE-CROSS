@@ -1,77 +1,122 @@
-# 🎲 Triple Cross: A Hidden Alliance Strategy Game
+# 🎲 Triple Cross — A Strategic Board Game
 
-> A multiplayer board game where secret alliances, betrayal, and resource strategy determine the victor.
+**Triple Cross** is a highly interactive and strategic board game designed for 2–6 players. Combining bluffing, area control, and tactical choices, it provides a fast-paced experience where players aim to dominate territories, sabotage opponents, and win through clever positioning and card manipulation.
 
-[🌐 Live Demo (Wix Page)](https://thisemailispointle7.wixsite.com/triplecross)
-
----
-
-## 📦 About the Game
-
-**Triple Cross** is a strategic board game designed around secret teams, deception, and resource management. Players act as undercover agents trying to win individually or through covert team victories. With hidden alliances, tactical votes, and dynamic markets, the game encourages bluffing, negotiation, and betrayal.
+> 💡 Final project for IAT210: Introduction to Game Design at Simon Fraser University.
 
 ---
 
-## 📁 Repository Contents
+## 🌐 Play the Game Online
 
-This repository includes all the planning documents, rules, design constraints, and gameplay mechanics behind the creation of *Triple Cross*.
+🚀 **Web Version:** [https://thisemailispointle7.wixsite.com/triplecross](https://thisemailispointle7.wixsite.com/triplecross)
 
-| 📄 File | 📌 Description |
-|--------|----------------|
-| `Rule Book.docx` | Complete rules for how the game is played, including turn order, card types, market system, and team events. |
-| `Main Game Dynamics.docx` | An overview of the core mechanics, including event cards, hidden alliances, and player interactions. |
-| `Design Constraints & Final Overview.docx` | Project constraints, challenges faced, and final design considerations. |
-| `Tradeoffs and dilemmas.docx` | Discussion on game balance, player dynamics, and the ethical tension of betrayal vs. loyalty. |
-| `Playtesting Log.docx` | Feedback gathered from multiple rounds of user testing. Iterative improvements included. |
-| `Triple Cross V2.docx` | The updated version of the concept pitch with mechanics and aesthetics evolved from feedback. |
-| `Flow.pdf` | Visual flowchart of gameplay loop and interactions. Useful for understanding pacing and player options. |
+> Built on Wix to simulate the gameplay and interface of Triple Cross.
 
 ---
 
-## 🎯 Game Objectives
+## 📺 Gameplay Showcase
 
-- Be the first player to score **10 points** through resource conversion and successful covert missions.
-- Form **secret teams**, execute plans, and manipulate outcomes while keeping your allegiance hidden.
-- Use **action cards**, **mini-markets**, and strategic positioning to disrupt others and gain points.
+[![Watch Gameplay Demo](https://img.youtube.com/vi/O-IshORxdp4/maxresdefault.jpg)](https://youtu.be/O-IshORxdp4)
 
----
-
-## 🔧 Technologies & Tools
-
-- 📄 MS Word / PDF: Documentation
-- 🎲 Tabletop Prototypes: Physical playtesting
-- 🧠 Game Theory & User Feedback Loops
-- 🎨 Graphic Design for layout and tokens
+> 🎥 **Watch the full gameplay walkthrough:** [https://youtu.be/O-IshORxdp4](https://youtu.be/O-IshORxdp4)
 
 ---
 
-## 🧪 Future Plans
+## 📦 Contents
 
-- Convert to a digital board game using **Unity** or **React + Canvas**.
-- Develop online multiplayer logic with hidden team assignments.
-- Add card animations, drag-and-drop interactivity, and game state syncing.
-
----
-
-## 📸 Screenshots & Prototypes
-
-> *(Add images of the board, components, team tokens, and gameplay snapshots here once uploaded!)*
-
----
-
-## 🧑‍🤝‍🧑 Team Members
-
-- **Pranay Ratan** (Game Design, Documentation, Testing)
-- *Add any teammates here if applicable*
+- 🎯 [Design Overview](#design-overview)
+- 🧠 [Core Game Dynamics](#core-game-dynamics)
+- ⚖️ [Tradeoffs & Dilemmas](#tradeoffs--dilemmas)
+- 📘 [Rule Book](#rule-book)
+- 🧪 [Playtesting Log](#playtesting-log)
+- 📐 [Constraints & Final Flow](#design-constraints--final-overview)
+- 🧾 [PDF Flowchart](#game-flow-diagram)
+- 💡 [Game Website](#web-version)
+- 📺 [Gameplay Demo](#gameplay-showcase)
 
 ---
 
-## 📬 Contact
+## 🎯 Design Overview
 
-Questions or collaboration ideas? Reach me via:
+A detailed breakdown of game objectives, inspirations, mechanics, and design decisions.
 
-- 💼 [LinkedIn](https://linkedin.com/in/pranay-ratan/)
-- 📨 [Email](mailto:PRA40@sfu.ca)
-- 🌐 [Portfolio](https://pranayratan.info)
+📄 [Triple Cross V2 – Design Overview](./Triple%20Cross%20V2.docx)
 
 ---
+
+## 🧠 Core Game Dynamics
+
+How gameplay unfolds — turns, movement, card functions, player interactions, and endgame conditions.
+
+📄 [Main Game Dynamics](./Main%20Game%20Dynamics.docx)
+
+---
+
+## ⚖️ Tradeoffs & Dilemmas
+
+Outlines the intentional dilemmas and tradeoffs players encounter, such as bluffing vs. brute force or cooperation vs. sabotage.
+
+📄 [Tradeoffs and Dilemmas](./Tradeoffs%20and%20dilemmas.docx)
+
+---
+
+## 📘 Rule Book
+
+Comprehensive, print-ready rule book including setup, turn flow, objectives, action explanations, and card types.
+
+📄 [Rule Book](./Rule%20Book.docx)
+
+---
+
+## 🧪 Playtesting Log
+
+Summarizes all internal and external playtesting sessions, user feedback, pain points, and improvements implemented.
+
+📄 [Playtesting Log](./Playtesting%20Log.docx)
+
+---
+
+## 📐 Design Constraints & Final Overview
+
+Describes limitations and constraints (time, components, mechanics) and how they were handled.
+
+📄 [Design Constraints & Final Overview](./41342414Design%20Constraints%20%26%20Final%20Overview.docx)
+
+---
+
+## 📊 Game Flow Diagram
+
+A visual flowchart representing the turn-by-turn progression of the game.
+
+📄 [Game Flow Diagram (PDF)](./Flow.pdf)
+
+---
+
+## 🌍 Web Version
+
+A live site to showcase card designs, UI concepts, and user interaction flow.
+
+🔗 [Visit the Website](https://thisemailispointle7.wixsite.com/triplecross)
+
+---
+
+## 📺 Gameplay Showcase
+
+[![Watch Gameplay Demo](https://img.youtube.com/vi/O-IshORxdp4/maxresdefault.jpg)](https://youtu.be/O-IshORxdp4)
+
+> 🎥 **Watch the full gameplay walkthrough:** [https://youtu.be/O-IshORxdp4](https://youtu.be/O-IshORxdp4)
+
+---
+
+## 📁 Repository Structure
+
+```bash
+📁 triple-cross/
+├── Triple Cross V2.docx
+├── Main Game Dynamics.docx
+├── Tradeoffs and dilemmas.docx
+├── Rule Book.docx
+├── Playtesting Log.docx
+├── 41342414Design Constraints & Final Overview.docx
+├── Flow.pdf
+└── README.md
