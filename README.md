@@ -10,8 +10,6 @@
 
 🚀 **Web Version:** [https://thisemailispointle7.wixsite.com/triplecross](https://thisemailispointle7.wixsite.com/triplecross)
 
-> Built on Wix to simulate the gameplay and interface of Triple Cross.
-
 ---
 
 ## 📺 Gameplay Showcase
@@ -29,8 +27,8 @@
 - ⚖️ [Tradeoffs & Dilemmas](#tradeoffs--dilemmas)
 - 📘 [Rule Book](#rule-book)
 - 🧪 [Playtesting Log](#playtesting-log)
-- 📐 [Constraints & Final Flow](#design-constraints--final-overview)
-- 🧾 [PDF Flowchart](#game-flow-diagram)
+- 📐 [Constraints & Final Overview](#design-constraints--final-overview)
+- 📊 [Game Flow Diagram](#game-flow-diagram)
 - 💡 [Game Website](#web-version)
 - 📺 [Gameplay Demo](#gameplay-showcase)
 
@@ -40,7 +38,7 @@
 
 A detailed breakdown of game objectives, inspirations, mechanics, and design decisions.
 
-📄 [Triple Cross V2 – Design Overview](./Triple%20Cross%20V2.docx)
+📄 [Triple Cross V2.docx](./Triple%20Cross%20V2.docx)
 
 ---
 
@@ -48,7 +46,7 @@ A detailed breakdown of game objectives, inspirations, mechanics, and design dec
 
 How gameplay unfolds — turns, movement, card functions, player interactions, and endgame conditions.
 
-📄 [Main Game Dynamics](./Main%20Game%20Dynamics.docx)
+📄 [Main Game Dynamics.docx](./Main%20Game%20Dynamics.docx)
 
 ---
 
@@ -56,7 +54,7 @@ How gameplay unfolds — turns, movement, card functions, player interactions, a
 
 Outlines the intentional dilemmas and tradeoffs players encounter, such as bluffing vs. brute force or cooperation vs. sabotage.
 
-📄 [Tradeoffs and Dilemmas](./Tradeoffs%20and%20dilemmas.docx)
+📄 [Tradeoffs and dilemmas.docx](./Tradeoffs%20and%20dilemmas.docx)
 
 ---
 
@@ -64,7 +62,7 @@ Outlines the intentional dilemmas and tradeoffs players encounter, such as bluff
 
 Comprehensive, print-ready rule book including setup, turn flow, objectives, action explanations, and card types.
 
-📄 [Rule Book](./Rule%20Book.docx)
+📄 [Rule Book.docx](./Rule%20Book.docx)
 
 ---
 
@@ -72,7 +70,7 @@ Comprehensive, print-ready rule book including setup, turn flow, objectives, act
 
 Summarizes all internal and external playtesting sessions, user feedback, pain points, and improvements implemented.
 
-📄 [Playtesting Log](./Playtesting%20Log.docx)
+📄 [Playtesting Log.docx](./Playtesting%20Log.docx)
 
 ---
 
@@ -80,7 +78,7 @@ Summarizes all internal and external playtesting sessions, user feedback, pain p
 
 Describes limitations and constraints (time, components, mechanics) and how they were handled.
 
-📄 [Design Constraints & Final Overview](./41342414Design%20Constraints%20%26%20Final%20Overview.docx)
+📄 [41342414Design Constraints & Final Overview.docx](./41342414Design%20Constraints%20%26%20Final%20Overview.docx)
 
 ---
 
@@ -88,35 +86,30 @@ Describes limitations and constraints (time, components, mechanics) and how they
 
 A visual flowchart representing the turn-by-turn progression of the game.
 
-📄 [Game Flow Diagram (PDF)](./Flow.pdf)
+📄 [Flow.pdf](./Flow.pdf)
 
 ---
 
-## 🌍 Web Version
+## 📍 Additional Resource
 
-A live site to showcase card designs, UI concepts, and user interaction flow.
-
-🔗 [Visit the Website](https://thisemailispointle7.wixsite.com/triplecross)
+⏱️ [Typical Play Session Length.docx](./Typical%20Play%20Session%20Length.docx)
 
 ---
 
-## 📺 Gameplay Showcase
+## ✨ Contributors
 
-[![Watch Gameplay Demo](https://img.youtube.com/vi/O-IshORxdp4/maxresdefault.jpg)](https://youtu.be/O-IshORxdp4)
-
-> 🎥 **Watch the full gameplay walkthrough:** [https://youtu.be/O-IshORxdp4](https://youtu.be/O-IshORxdp4)
+- **Pranay Ratan** – Game Designer, Developer, Tester, Documenter  
+- [LinkedIn](https://www.linkedin.com/in/pranay-ratan/) | [GitHub](https://github.com/pranay-ratan) | [Website](https://pranayratan.info)
 
 ---
 
-## 📁 Repository Structure
+## 📬 Contact
 
-```bash
-📁 triple-cross/
-├── Triple Cross V2.docx
-├── Main Game Dynamics.docx
-├── Tradeoffs and dilemmas.docx
-├── Rule Book.docx
-├── Playtesting Log.docx
-├── 41342414Design Constraints & Final Overview.docx
-├── Flow.pdf
-└── README.md
+📧 [PRA40@sfu.ca](mailto:PRA40@sfu.ca)
+
+---
+
+## 🧠 License
+
+This project is for educational use only under SFU's IAT210 guidelines.  
+Please do not replicate or distribute without permission.
